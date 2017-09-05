@@ -1,0 +1,8 @@
+{
+    "alias": "tukecx-hook",
+    "name": "Filters - actions hook",
+    "author": "Tukecx",
+    "description": "Hook support",
+    "namespace": "Tukecx\\Base\\Hook",
+    "autoload": "psr-4"
+}
